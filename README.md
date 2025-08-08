@@ -1,5 +1,5 @@
 # llm-zoomcamp
-- This course comprises the following sẽtion:
+- This course comprises the following section:
 1. Intro
 Understading Search algorithms like min search or elastic search
 
